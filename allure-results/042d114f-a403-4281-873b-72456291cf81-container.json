@@ -1,0 +1,1 @@
+{"uuid":"042d114f-a403-4281-873b-72456291cf81","name":"RestAssuredFramework.apiFramework.UsersTest","children":["0d392459-64e6-432c-8eb3-5695fe135645"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648477414300,"stop":1648477414327}],"afters":[],"start":1648477414257,"stop":1648477418757}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-28T14:37:24Z" name="Default suite" finished-at="2022-03-28T14:37:31Z" duration-ms="6244">
+    <groups>
+    </groups>
+    <test started-at="2022-03-28T14:37:24Z" name="Default test" finished-at="2022-03-28T14:37:31Z" duration-ms="6244">
+      <class name="RestAssuredFramework.apiFramework.UsersTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:RestAssuredFramework.apiFramework.UsersTest@44ea608c]" started-at="2022-03-28T14:37:25Z" name="init" finished-at="2022-03-28T14:37:25Z" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="getUser_002()[pri:0, instance:RestAssuredFramework.apiFramework.UsersTest@44ea608c]" started-at="2022-03-28T14:37:25Z" name="getUser_002" finished-at="2022-03-28T14:37:31Z" duration-ms="6015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser_002 -->
+      </class> <!-- RestAssuredFramework.apiFramework.UsersTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
